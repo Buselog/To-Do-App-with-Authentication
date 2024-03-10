@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6906617099",
+    "project_id": "to-do-app-25702",
+    "storage_bucket": "to-do-app-25702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6906617099:android:4b3b17c2b0633b3988160e",
+        "android_client_info": {
+          "package_name": "com.busegorcum.to_do_list_with_firebase_13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8nqaIYQBMVhi6370fQIxJv-BiHPtphlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
